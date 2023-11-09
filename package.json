@@ -2,7 +2,7 @@
   "dependencies": {
     "hex-to-rgba": "^2.0.1"
   },
-  "name": "color_converter",
+  "name": "color_converter-andrea-cauchi",
   "version": "1.0.0",
   "main": "index.js",
   "type": "commonjs",
