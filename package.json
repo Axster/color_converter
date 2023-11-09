@@ -3,7 +3,7 @@
     "hex-to-rgba": "^2.0.1"
   },
   "name": "color_converter",
-  "version": "^1.0.0",
+  "version": "1.0.0",
   "main": "index.js",
   "type": "commonjs",
   "scripts": {
