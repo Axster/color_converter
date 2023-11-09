@@ -6,7 +6,6 @@
   "version": "^1.0.0",
   "main": "index.js",
   "type": "commonjs",
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -14,7 +13,16 @@
     "type": "git",
     "url": "git@github.com:Axster/color_converter.git"
   },
-  "keywords": ["color", "conversion", "rgba", "hex", "color conversion", "color converter", "rgba to hex", "hex to rgba"],
+  "keywords": [
+    "color",
+    "conversion",
+    "rgba",
+    "hex",
+    "color conversion",
+    "color converter",
+    "rgba to hex",
+    "hex to rgba"
+  ],
   "author": "Andrea Federico Cauchi (Axster)",
   "license": "MIT",
   "description": "Converts colors from strings to RGBA and vice versa"
