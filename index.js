@@ -21,9 +21,9 @@ const colors = {
     'gray': '#808080'
 }
 
-const convertToRgba = (color) => hexToRgba(colors[color])
+exports.convertToRgba = (color) => hexToRgba(colors[color])
 
-const convertToString = (rgba) => 
+exports.convertToString = (rgba) => 
 Object.entries(colors).find(([key,value]) => hexToRgba(value) === rgba)[0]
 
 
